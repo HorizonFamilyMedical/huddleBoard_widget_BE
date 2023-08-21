@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgQehSxliAD1qkGsG9BRim+ReUm0LLwbfeprzLr4aNHwj++R4h0zOOic8/PQwbD2V1Ue8qufsFpvQ/sA9TVmJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Backend_Rpa\\Backend_Rpa\\Backend_Rpa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.ui.xaml\\2.8.5\\microsoft.ui.xaml.2.8.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.web.webview2\\1.0.1264.42\\microsoft.web.webview2.1.0.1264.42.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\tesseract.net.sdk\\4.5.411\\tesseract.net.sdk.4.5.411.nupkg.sha512"
+  ],
+  "logs": []
+}
